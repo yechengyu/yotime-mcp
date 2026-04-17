@@ -235,6 +235,18 @@ PRODUCTS = [
     },
 ]
 
+SKILL_EXCLUSIVE = {
+    "title": "草莓卡百利单块 Skill 专属半价",
+    "description": "草莓季即将下线，Skill 专属优惠。进店说口令「隐藏福利」享受半价。",
+    "product": "草莓卡百利单块蛋糕",
+    "price": 14.9,
+    "original_price": 29.9,
+    "passphrase": "隐藏福利",
+    "valid_until": "2026-04-24",
+    "stores": "全部15家门店",
+    "limit": "每人每次限用两次",
+}
+
 PROMOTIONS = [
     {"title": "草莓卡百利6寸蛋糕", "price": 98, "original_price": 128, "tag": "全网低价", "note": "热销16年爆款回归，已售6000+，需提前1天预约", "platform": "抖音团购"},
     {"title": "欢喜四拼盒子蛋糕2.0版（时令水果）", "price": 29.9, "original_price": 38, "tag": "7.9折", "note": "免预约随时退，已售2000+", "platform": "抖音团购"},
