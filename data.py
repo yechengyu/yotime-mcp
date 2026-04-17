@@ -18,7 +18,10 @@ STORES = [
         "phone": "0577-88128800",
         "wechat": "18989711368",
         "hours": "10:00-22:00",
-        "delivery": {},
+        "delivery": {
+            "eleme": "https://344g.ug.ele.me/wow/alsc/mod/c1474c7db25accb9ab49ddf3?targetUrl=eleme%3A%2F%2Fcatering%3Frestaurant_id%3DE18393947464452363627%26_ltraffic_share%3Dclipboard",
+            "meituan": "http://dpurl.cn/aeaY4hzz",
+        },
     },
     {
         "name": "时代广场店",
@@ -39,7 +42,10 @@ STORES = [
         "phone": "0577-88128818",
         "wechat": "18058821285",
         "hours": "9:00-21:00",
-        "delivery": {},
+        "delivery": {
+            "eleme": "https://qyjm.ug.ele.me/wow/alsc/mod/c1474c7db25accb9ab49ddf3?targetUrl=eleme%3A%2F%2Fcatering%3Frestaurant_id%3DE10538631942859129111%26_ltraffic_share%3Dclipboard",
+            "meituan": "http://dpurl.cn/GC67lElz",
+        },
     },
     {
         "name": "交行广场店",
@@ -48,7 +54,10 @@ STORES = [
         "phone": "0577-88128822",
         "wechat": "18105770253",
         "hours": "8:00-19:00",
-        "delivery": {},
+        "delivery": {
+            "eleme": "https://j69d.ug.ele.me/wow/alsc/mod/c1474c7db25accb9ab49ddf3?targetUrl=eleme%3A%2F%2Fcatering%3Frestaurant_id%3DE4777655036285231557%26_ltraffic_share%3Dclipboard",
+            "meituan": "http://dpurl.cn/2tHvA9zz",
+        },
     },
     {
         "name": "新田园农贸店",
@@ -57,7 +66,10 @@ STORES = [
         "phone": "0577-88128810",
         "wechat": "15372869267",
         "hours": "8:30-21:30",
-        "delivery": {},
+        "delivery": {
+            "eleme": "https://mqg5.ug.ele.me/wow/alsc/mod/c1474c7db25accb9ab49ddf3?targetUrl=eleme%3A%2F%2Fcatering%3Frestaurant_id%3DE10834368806760070161%26_ltraffic_share%3Dclipboard",
+            "meituan": "http://dpurl.cn/V60BxMLz",
+        },
     },
     {
         "name": "学院路店",
@@ -66,7 +78,10 @@ STORES = [
         "phone": "0577-88120088",
         "wechat": "18072187923",
         "hours": "8:00-20:00",
-        "delivery": {},
+        "delivery": {
+            "eleme": "https://02d4.ug.ele.me/wow/alsc/mod/c1474c7db25accb9ab49ddf3?targetUrl=eleme%3A%2F%2Fcatering%3Frestaurant_id%3DE5930861328883851343%26_ltraffic_share%3Dclipboard",
+            "meituan": "http://dpurl.cn/uKPAyGgz",
+        },
     },
     {
         "name": "双乐店",
@@ -75,7 +90,10 @@ STORES = [
         "phone": "0577-88128813",
         "wechat": "18058836792",
         "hours": "9:00-21:00",
-        "delivery": {},
+        "delivery": {
+            "eleme": "https://5qhm.ug.ele.me/wow/alsc/mod/c1474c7db25accb9ab49ddf3?targetUrl=eleme%3A%2F%2Fcatering%3Frestaurant_id%3DE9181589626070351208%26_ltraffic_share%3Dclipboard",
+            "meituan": "http://dpurl.cn/bElqY4Uz",
+        },
     },
     {
         "name": "水心店",
@@ -84,7 +102,10 @@ STORES = [
         "phone": "0577-88125500",
         "wechat": "17326796382",
         "hours": "9:00-21:00",
-        "delivery": {},
+        "delivery": {
+            "eleme": "https://36i3.ug.ele.me/wow/alsc/mod/c1474c7db25accb9ab49ddf3?targetUrl=eleme%3A%2F%2Fcatering%3Frestaurant_id%3DE12300309001542252669%26_ltraffic_share%3Dclipboard",
+            "meituan": "http://dpurl.cn/W7aysncz",
+        },
     },
     # 瓯海区
     {
@@ -94,7 +115,10 @@ STORES = [
         "phone": "0577-88128855",
         "wechat": "15355871923",
         "hours": "9:00-21:00",
-        "delivery": {},
+        "delivery": {
+            "eleme": "https://tas0.ug.ele.me/wow/alsc/mod/c1474c7db25accb9ab49ddf3?targetUrl=eleme%3A%2F%2Fcatering%3Frestaurant_id%3DE13005578152642238008%26_ltraffic_share%3Dclipboard",
+            "meituan": "http://dpurl.cn/AbrQ3KMz",
+        },
     },
     {
         "name": "龙霞店",
@@ -103,7 +127,10 @@ STORES = [
         "phone": "0577-88128819",
         "wechat": "15306875237",
         "hours": "9:00-21:00",
-        "delivery": {},
+        "delivery": {
+            "eleme": "https://bel2.ug.ele.me/wow/alsc/mod/c1474c7db25accb9ab49ddf3?targetUrl=eleme%3A%2F%2Fcatering%3Frestaurant_id%3DE13824204886638885991%26_ltraffic_share%3Dclipboard",
+            "meituan": "http://dpurl.cn/QsTM1dQz",
+        },
     },
     {
         "name": "新桥店",
@@ -112,7 +139,10 @@ STORES = [
         "phone": "0577-88128815",
         "wechat": "18066398092",
         "hours": "9:00-21:00",
-        "delivery": {},
+        "delivery": {
+            "eleme": "https://q0t6.ug.ele.me/wow/alsc/mod/c1474c7db25accb9ab49ddf3?targetUrl=eleme%3A%2F%2Fcatering%3Frestaurant_id%3DE5382123198808142499%26_ltraffic_share%3Dclipboard",
+            "meituan": "http://dpurl.cn/wFO5ukGz",
+        },
     },
     {
         "name": "上汇店",
@@ -121,7 +151,10 @@ STORES = [
         "phone": "0577-86163812",
         "wechat": "17328819551",
         "hours": "9:00-21:00",
-        "delivery": {},
+        "delivery": {
+            "eleme": "https://28l0.ug.ele.me/wow/alsc/mod/c1474c7db25accb9ab49ddf3?targetUrl=eleme%3A%2F%2Fcatering%3Frestaurant_id%3DE3235977379953249014%26_ltraffic_share%3Dclipboard",
+            "meituan": "http://dpurl.cn/BQ1Q8rKz",
+        },
     },
     # 龙湾区
     {
@@ -131,7 +164,10 @@ STORES = [
         "phone": "0577-88125588",
         "wechat": "18157710632",
         "hours": "10:00-22:00",
-        "delivery": {},
+        "delivery": {
+            "eleme": "https://gp3t.ug.ele.me/wow/alsc/mod/c1474c7db25accb9ab49ddf3?targetUrl=eleme%3A%2F%2Fcatering%3Frestaurant_id%3DE7116580816337435814%26_ltraffic_share%3Dclipboard",
+            "meituan": "http://dpurl.cn/nta2v4Yz",
+        },
     },
     {
         "name": "中梁店",
@@ -140,7 +176,10 @@ STORES = [
         "phone": "0577-88122727",
         "wechat": "13353361512",
         "hours": "9:00-21:30",
-        "delivery": {},
+        "delivery": {
+            "eleme": "https://8gfw.ug.ele.me/wow/alsc/mod/c1474c7db25accb9ab49ddf3?targetUrl=eleme%3A%2F%2Fcatering%3Frestaurant_id%3DE7480025897677031312%26_ltraffic_share%3Dclipboard",
+            "meituan": "http://dpurl.cn/H85dvspz",
+        },
     },
     {
         "name": "状元店",
@@ -149,7 +188,10 @@ STORES = [
         "phone": "",
         "wechat": "13819713901",
         "hours": "9:00-21:00",
-        "delivery": {},
+        "delivery": {
+            "eleme": "https://n8al.ug.ele.me/wow/alsc/mod/c1474c7db25accb9ab49ddf3?targetUrl=eleme%3A%2F%2Fcatering%3Frestaurant_id%3DE6895115250826867466%26_ltraffic_share%3Dclipboard",
+            "meituan": "http://dpurl.cn/9gqkbzlz",
+        },
     },
 ]
 
