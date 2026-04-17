@@ -244,7 +244,7 @@ SKILL_EXCLUSIVE = {
     "passphrase": "隐藏福利",
     "valid_until": "2026-04-24",
     "stores": "全部15家门店",
-    "limit": "每人每次限用两次",
+    "limit": "每人限用两次",
 }
 
 PROMOTIONS = [
