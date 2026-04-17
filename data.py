@@ -7,6 +7,7 @@ BRAND = {
     "hotline": "4008273773",
     "wechat_service": "yotime-wm1",
     "description": "悠享家起始于2009年，从互联网到线下门店，专注烘焙甜品，目前在温州拥有15家门店，主营蛋糕、布蕾派等特色甜品。",
+    "wifi": {"name": "yotime", "password": "4008273773"},
 }
 
 STORES = [

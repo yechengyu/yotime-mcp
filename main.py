@@ -83,5 +83,16 @@ def get_contact() -> str:
     }, ensure_ascii=False, indent=2)
 
 
+@mcp.tool()
+def get_wifi() -> str:
+    """获取悠享家门店 Wi-Fi 账号和密码"""
+    wifi = BRAND["wifi"]
+    return json.dumps({
+        "wifi_name": wifi["name"],
+        "wifi_password": wifi["password"],
+        "tip": "全部门店通用，进店即可连接",
+    }, ensure_ascii=False, indent=2)
+
+
 if __name__ == "__main__":
     mcp.run()
