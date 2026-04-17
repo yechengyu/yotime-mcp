@@ -236,12 +236,14 @@ PRODUCTS = [
 ]
 
 PROMOTIONS = [
-    # 示例格式：
-    # {
-    #     "title": "活动名称",
-    #     "description": "活动描述",
-    #     "platform": "抖音团购 / 美团 / 门店",
-    #     "valid_until": "2026-05-31",
-    #     "link": "https://...",
-    # },
+    {"title": "草莓卡百利6寸蛋糕", "price": 98, "original_price": 128, "tag": "全网低价", "note": "热销16年爆款回归，已售6000+，需提前1天预约", "platform": "抖音团购"},
+    {"title": "欢喜四拼盒子蛋糕2.0版（时令水果）", "price": 29.9, "original_price": 38, "tag": "7.9折", "note": "免预约随时退，已售2000+", "platform": "抖音团购"},
+    {"title": "50元通用代金券", "price": 45, "original_price": 50, "tag": "全网低价", "note": "免预约，已售1000+", "platform": "抖音团购"},
+    {"title": "重奏系列·烤布蕾奶皮子蛋糕/海盐杏仁布蕾（2选1）", "price": 79, "original_price": 88, "tag": "全网低价", "note": "好评率100%，已售100+，需提前4小时预约", "platform": "抖音团购"},
+    {"title": "重奏系列·粉黛青提芭乐蛋糕", "price": 68, "original_price": 88, "tag": "7.8折", "note": "新品，需提前4小时预约", "platform": "抖音团购"},
+    {"title": "重奏系列·咸香芋泥麻薯肉松/青提茉莉虎皮卷（2选1）", "price": 58, "original_price": 156, "tag": "3.8折", "note": "新品，需提前4小时预约", "platform": "抖音团购"},
+    {"title": "爆浆蛋糕杨枝甘露/茉莉青提（2选1）", "price": 15.8, "original_price": 18, "tag": "8.8折", "note": "好评率100%，已售100+", "platform": "抖音团购"},
+    {"title": "草莓卡百利单块蛋糕", "price": 23.9, "original_price": 29.9, "tag": "全网低价", "note": "爆款回归，已售4000+", "platform": "抖音团购"},
+    {"title": "油画玫珑蛋糕4英寸（春日限定）", "price": 58, "original_price": 78, "tag": "全网低价", "note": "明星同款新品，已售100+", "platform": "抖音团购"},
+    {"title": "hello kitty草莓碗4英寸（含碗勺）", "price": 98, "original_price": 108, "tag": "9.1折", "note": "新品，需提前4小时预约，已售50+", "platform": "抖音团购"},
 ]

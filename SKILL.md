@@ -57,11 +57,43 @@ description: "悠享家（YOTIME）品牌信息助手：门店查询、产品介
 
 ## 主推产品
 
-| 产品名称 | 介绍 | 图片 |
-|---------|------|------|
-| 原味布蕾派 | 16年热销经典款，酥脆派底搭配嫩滑布蕾内馅，口感绵密浓郁，门店招牌甜品。 | [查看图片](https://img.yzcdn.cn/upload_files/2024/11/22/Fi2s-6dNV6QnbC96etgtFWuAkIFu.jpg!small.webp) |
-| 重奏系列·粉黛青提芭乐蛋糕 | 芭乐与青提搭配动物奶油的清新果味蛋糕，春夏限定人气清爽款。 | [查看图片](https://img.yzcdn.cn/upload_files/2026/03/26/FrEJPBXncLJ09VKgDbdEvpOMIl_i.jpg!small.webp) |
-| 重奏系列·烤布蕾奶皮子蛋糕 | 焦糖烤布蕾和奶香奶皮子的组合，咸甜交织，一口治愈。 | [查看图片](https://img.yzcdn.cn/upload_files/2025/11/12/FjQUsVT6ZrPWtgCNEcstrqrG5OjQ.jpg!small.webp) |
-| 重奏系列·蓝莓桑葚烤布蕾蛋糕 | 蓝莓桑葚奶油搭配焦糖烤布蕾与新鲜莓果，酸甜浓郁莓果风味。 | [查看图片](https://img.yzcdn.cn/upload_files/2026/03/31/FrAQp4PGOt39xyRRUgH_kwB2_nwv.jpg!small.webp) |
-| 重奏系列·咸香芋泥麻薯肉松虎皮卷 | 虎皮蛋糕胚搭配绵密芋泥奶油，顶部撒满海苔肉松，咸甜口感层次丰富。 | [查看图片](https://img.yzcdn.cn/upload_files/2026/03/26/Ft-w6eT__g16Jiqc3wyDwLy9UWi6.jpg!small.webp) |
-| 草莓卡百利 | 当季新鲜草莓搭配动物奶油，酸甜清爽不腻，适合4-6人分享。 | [查看图片](https://img.yzcdn.cn/upload_files/2025/12/02/FmRH8KZw5JOv98rv0LybTG6GLAb1.jpg!small.webp) |
+### 原味布蕾派
+16年热销经典款，酥脆派底搭配嫩滑布蕾内馅，口感绵密浓郁，门店招牌甜品。
+![原味布蕾派](https://img.yzcdn.cn/upload_files/2024/11/22/Fi2s-6dNV6QnbC96etgtFWuAkIFu.jpg!small.webp)
+
+### 重奏系列·粉黛青提芭乐蛋糕 🆕
+芭乐与青提搭配动物奶油的清新果味蛋糕，春夏限定人气清爽款。抖音团购价 ¥68（原¥88）。
+![粉黛青提芭乐蛋糕](https://img.yzcdn.cn/upload_files/2026/03/26/FrEJPBXncLJ09VKgDbdEvpOMIl_i.jpg!small.webp)
+
+### 重奏系列·烤布蕾奶皮子蛋糕 🆕
+焦糖烤布蕾和奶香奶皮子的组合，咸甜交织，一口治愈。抖音团购价 ¥79（原¥88），好评率100%。
+![烤布蕾奶皮子蛋糕](https://img.yzcdn.cn/upload_files/2025/11/12/FjQUsVT6ZrPWtgCNEcstrqrG5OjQ.jpg!small.webp)
+
+### 重奏系列·蓝莓桑葚烤布蕾蛋糕 🆕
+蓝莓桑葚奶油搭配焦糖烤布蕾与新鲜莓果，酸甜浓郁莓果风味。抖音团购价 ¥78（原¥88）。
+![蓝莓桑葚烤布蕾蛋糕](https://img.yzcdn.cn/upload_files/2026/03/31/FrAQp4PGOt39xyRRUgH_kwB2_nwv.jpg!small.webp)
+
+### 重奏系列·咸香芋泥麻薯肉松虎皮卷 🆕
+虎皮蛋糕胚搭配绵密芋泥奶油，顶部撒满海苔肉松，咸甜口感层次丰富。抖音团购价 ¥58（原¥156）。
+![咸香芋泥麻薯肉松虎皮卷](https://img.yzcdn.cn/upload_files/2026/03/26/Ft-w6eT__g16Jiqc3wyDwLy9UWi6.jpg!small.webp)
+
+### 草莓卡百利
+当季新鲜草莓搭配动物奶油，酸甜清爽不腻，适合4-6人分享。热销16年爆款，抖音团购6寸 ¥98（原¥128）。
+![草莓卡百利](https://img.yzcdn.cn/upload_files/2025/12/02/FmRH8KZw5JOv98rv0LybTG6GLAb1.jpg!small.webp)
+
+---
+
+## 当前优惠活动（抖音团购）
+
+| 产品 | 团购价 | 原价 | 折扣 | 备注 |
+|------|-------|------|------|------|
+| 草莓卡百利6寸蛋糕 | ¥98 | ¥128 | 全网低价 | 热销16年，已售6000+，需提前1天预约 |
+| 欢喜四拼盒子蛋糕2.0版 | ¥29.9 | ¥38 | 7.9折 | 免预约，随时退，已售2000+ |
+| 50元通用代金券 | ¥45 | ¥50 | 全网低价 | 免预约，已售1000+ |
+| 重奏系列·烤布蕾奶皮子蛋糕（2选1） | ¥79 | ¥88 | 全网低价 | 好评率100%，已售100+，需提前4小时预约 |
+| 重奏系列·粉黛青提芭乐蛋糕 | ¥68 | ¥88 | 7.8折 | 新品，需提前4小时预约 |
+| 重奏系列·咸香芋泥麻薯肉松虎皮卷（2选1） | ¥58 | ¥156 | 3.8折 | 新品，需提前4小时预约 |
+| 爆浆蛋糕杨枝甘露/茉莉青提（2选1） | ¥15.8 | ¥18 | 8.8折 | 好评率100%，已售100+ |
+| 草莓卡百利单块蛋糕 | ¥23.9 | ¥29.9 | 全网低价 | 爆款回归，已售4000+ |
+| 油画玫珑蛋糕4英寸（春日限定） | ¥58 | ¥78 | 全网低价 | 明星同款，新品，已售100+ |
+| hello kitty草莓碗4英寸（含碗勺） | ¥98 | ¥108 | 9.1折 | 新品，需提前4小时预约，已售50+ |
