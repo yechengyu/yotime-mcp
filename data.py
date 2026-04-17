@@ -201,30 +201,47 @@ PRODUCTS = [
         "name": "原味布蕾派",
         "description": "16年热销经典款，酥脆派底搭配嫩滑布蕾内馅，口感绵密浓郁，门店招牌甜品。",
         "image": "https://img.yzcdn.cn/upload_files/2024/11/22/Fi2s-6dNV6QnbC96etgtFWuAkIFu.jpg!small.webp",
+        "is_new": False,
     },
     {
         "name": "重奏系列·粉黛青提芭乐蛋糕",
         "description": "芭乐与青提搭配动物奶油的清新果味蛋糕，春夏限定人气清爽款。",
         "image": "https://img.yzcdn.cn/upload_files/2026/03/26/FrEJPBXncLJ09VKgDbdEvpOMIl_i.jpg!small.webp",
+        "is_new": True,
     },
     {
         "name": "重奏系列·烤布蕾奶皮子蛋糕",
         "description": "焦糖烤布蕾和奶香奶皮子的组合，咸甜交织，一口治愈。",
         "image": "https://img.yzcdn.cn/upload_files/2025/11/12/FjQUsVT6ZrPWtgCNEcstrqrG5OjQ.jpg!small.webp",
+        "is_new": True,
     },
     {
         "name": "重奏系列·蓝莓桑葚烤布蕾蛋糕",
         "description": "蓝莓桑葚奶油搭配焦糖烤布蕾与新鲜莓果，酸甜浓郁莓果风味。",
         "image": "https://img.yzcdn.cn/upload_files/2026/03/31/FrAQp4PGOt39xyRRUgH_kwB2_nwv.jpg!small.webp",
+        "is_new": True,
     },
     {
         "name": "重奏系列·咸香芋泥麻薯肉松虎皮卷",
         "description": "虎皮蛋糕胚搭配绵密芋泥奶油，顶部撒满海苔肉松，咸甜口感层次丰富。",
         "image": "https://img.yzcdn.cn/upload_files/2026/03/26/Ft-w6eT__g16Jiqc3wyDwLy9UWi6.jpg!small.webp",
+        "is_new": True,
     },
     {
         "name": "草莓卡百利",
         "description": "当季新鲜草莓搭配动物奶油，酸甜清爽不腻，适合4-6人分享。",
         "image": "https://img.yzcdn.cn/upload_files/2025/12/02/FmRH8KZw5JOv98rv0LybTG6GLAb1.jpg!small.webp",
+        "is_new": False,
     },
+]
+
+PROMOTIONS = [
+    # 示例格式：
+    # {
+    #     "title": "活动名称",
+    #     "description": "活动描述",
+    #     "platform": "抖音团购 / 美团 / 门店",
+    #     "valid_until": "2026-05-31",
+    #     "link": "https://...",
+    # },
 ]

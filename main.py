@@ -3,7 +3,7 @@
 
 import json
 from mcp.server.fastmcp import FastMCP
-from data import BRAND, STORES, PRODUCTS
+from data import BRAND, STORES, PRODUCTS, PROMOTIONS
 
 mcp = FastMCP("yotime")
 
@@ -81,6 +81,21 @@ def get_contact() -> str:
         "wechat_service": BRAND["wechat_service"],
         "tip": "添加企微客服号 yotime-wm1，可咨询产品、定制蛋糕及门店信息",
     }, ensure_ascii=False, indent=2)
+
+
+@mcp.tool()
+def get_new_products() -> str:
+    """获取悠享家最新上架产品"""
+    new_items = [p for p in PRODUCTS if p.get("is_new")]
+    return json.dumps(new_items, ensure_ascii=False, indent=2)
+
+
+@mcp.tool()
+def get_promotions() -> str:
+    """获取悠享家当前优惠活动（抖音团购、美团、门店活动等）"""
+    if not PROMOTIONS:
+        return json.dumps({"message": "暂无进行中的优惠活动，请关注官方客服企微号 yotime-wm1 获取最新活动信息"}, ensure_ascii=False)
+    return json.dumps(PROMOTIONS, ensure_ascii=False, indent=2)
 
 
 @mcp.tool()
