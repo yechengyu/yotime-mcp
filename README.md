@@ -26,31 +26,36 @@
 | `get_delivery_links` | 美团/饿了么外卖链接 |
 | `get_contact` | 客服联系方式 |
 
-## 快速安装
+## 安装
 
-### Claude Desktop
+### 最简单的方式：告诉你的 AI 助手
 
-在 `claude_desktop_config.json` 中添加：
+直接复制下面这句话发给你的 AI 助手：
 
-```json
-{
-  "mcpServers": {
-    "yotime": {
-      "command": "python3",
-      "args": ["/path/to/yotime-mcp/main.py"]
-    }
-  }
-}
-```
+> 帮我安装悠享家 Skill，仓库地址：https://github.com/yechengyu/yotime-mcp
 
-### 通用安装步骤
+Agent 会自动克隆仓库并安装到对应的 Skill 目录。
+
+### 手动克隆到 Skill 目录
+
+将本仓库克隆到你项目下的 Skill 目录，不同 IDE 对应的路径：
+
+| IDE | Skill 目录 |
+|-----|-----------|
+| Qoder | `.qoder/skills/yotime-mcp/` |
+| Cursor | `.cursor/skills/yotime-mcp/` |
+| Trae | `.trae/skills/yotime-mcp/` |
+| Windsurf | `.windsurf/skills/yotime-mcp/` |
+| Claude Code | `.claude/skills/yotime-mcp/` |
+| 通用 | `.agents/skills/yotime-mcp/` |
 
 ```bash
-git clone https://github.com/yotime/yotime-mcp.git
-cd yotime-mcp
-pip install -r requirements.txt
-python main.py
+# 示例：安装到 Claude Code
+git clone https://github.com/yechengyu/yotime-mcp.git \
+    .claude/skills/yotime-mcp
 ```
+
+只要目录下有 `SKILL.md`，Agent 下次启动就会自动加载这个 Skill。
 
 ## 关于悠享家
 
